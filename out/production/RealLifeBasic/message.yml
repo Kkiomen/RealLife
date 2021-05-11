@@ -1,0 +1,12 @@
+message:
+  chat:
+    used: '&4Uzyj: %currentCommant% <wiadomosc>'
+    infoDistance: '&8Osoby w odleglosci %distance% otrzymaja wiadomosc.'
+    infoDistanceNoUsers: '&8W odleglosci %distance% kratek nie ma zadnego gracza!'
+    meInfoUsed: '&7Komenda służy do opisywania wlasnych akcji'
+  viewChat:
+    whisperSendMessage: '&8%playerName%&7: &6%message%'
+    screamSendMessage: '&8%playerName%&7: %message%'
+    meSendMessage: '&d%playerName%: %message%'
+  infoIfNotLoggedInWebsite: '&4Aby rozpocząc gre, zarejestruj się na stronie: www.pl'
+  infoItemsTablet: 'Aby zarządzać wejdź na strone: xyz.pl'

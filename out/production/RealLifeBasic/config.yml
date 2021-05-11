@@ -1,0 +1,9 @@
+view: '&8[&7%id%&8]&7%firstname% %secodname%'
+distanceWhisper: 7
+distanceScream: 20
+distanceMe: 15
+chest:
+  office:
+    x: 308
+    y: 5
+    z: -39

@@ -1,0 +1,10 @@
+name: RealLifeFirstStepJoin
+version: 1.0
+main: me.kkiomen.main.Main
+author: Kkiomen
+description: This plugin save User to Database and make first tutorial
+
+commands:
+  start:
+    description: Wyświetla komendy pomocnicze
+  startSTOP:

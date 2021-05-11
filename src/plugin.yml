@@ -1,0 +1,26 @@
+name: RealLifeFirstStepJoin
+version: 1.0
+main: me.kkiomen.main.Main
+api-version: 1.13
+author: Kkiomen
+description: This plugin save User to Database and make first tutorial
+
+commands:
+  pomoc:
+    description: Wyświetla komendy pomocnicze
+  szept:
+    description: Pozwala szeptać w obrebie 5 kratek
+    aliases: [ s ]
+  krzyk:
+    description: Pozwala krzyczec w obrebie 20 kratek
+    aliases: [ k ]
+  me:
+    description: Sluzy do opisywania wlasnych akcji na dystans 15 kratek
+  money:
+  tablet:
+    usage: /tablet [give | remove] [ilosc]
+  tableturzad:
+    usage: /tableturzad [give | remove] [ilosc]
+  idpersonal:
+  bank:
+  powiadomienie:
