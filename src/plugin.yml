@@ -1,9 +1,10 @@
-name: RealLifeFirstStepJoin
+name: RealLifeBasic
 version: 1.0
 main: me.kkiomen.main.Main
 api-version: 1.13
 author: Kkiomen
 description: This plugin save User to Database and make first tutorial
+depend: [WorldGuard]
 
 commands:
   pomoc:
@@ -24,3 +25,5 @@ commands:
   idpersonal:
   bank:
   powiadomienie:
+  idpermit:
+  lek:

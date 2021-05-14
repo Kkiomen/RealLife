@@ -88,7 +88,7 @@ public class OnJoin implements Listener {
         NickAPI.nick(player, names);
         NickAPI.refreshPlayer(player);
 
-
+        event.getPlayer().setResourcePack("https://www.dropbox.com/s/dzun8skwa5m4k54/bettervanillabuildingV2.50.1.rar?dl=1");
 
     }
 }

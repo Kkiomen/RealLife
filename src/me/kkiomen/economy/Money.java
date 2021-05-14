@@ -49,6 +49,7 @@ public class Money implements CommandExecutor {
                 ItemStack money = new ItemStack(Material.PURPLE_DYE);
                 ItemMeta moneyMeta = money.getItemMeta();
                 moneyMeta.setDisplayName(ChatColor.GREEN + "Bankot 1$");
+                moneyMeta.setCustomModelData(1234567);
                 ArrayList<String> moneyLore = new ArrayList<>();
                 moneyLore.add(ChatColor.GRAY + "Oficjalna waluta serwera");
                 moneyLore.add(ChatColor.WHITE + "Na banknocie widnieje NOTCH");
